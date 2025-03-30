@@ -3,7 +3,7 @@
 
 1.  Create conda environment:
     ```
-    conda create -n CrossMatch python=3.11
+    conda create -n CompNet python=3.11
     ```
 2.  Clone the repo:
     ```
@@ -11,7 +11,7 @@
     ```
 3.  Activate the environment:
     ```
-    conda activate CrossMatch
+    conda activate CompNet
     ```
 4.  Install the requirements:
     ```
