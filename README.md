@@ -15,7 +15,7 @@
     ```
 4.  Install the requirements:
     ```
-    cd CrossMatch
+    cd CompNet
     pip install -r requirements.txt
     ```
 
