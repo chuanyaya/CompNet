@@ -76,7 +76,7 @@ bash scripts/train.sh gpu_num port
 | BCP         | (CVPR'23)     | 90.18      | 82.36      | 6.64         | 1.61       |
 | UniMatch    | (CVPR'23)     | 90.77      | 83.18      | 7.21         | 2.05       |
 | CAML        | (MICCAI'23)   | 90.78      | 83.19      | 6.11         | 1.68       |
-| **Ours**    |                | **91.41**  | **84.255**  | **5.19**     | 1.92   |
+| **Ours**    |                | **91.41**  | **84.25**  | **5.19**     | 1.92   |
 
 ### ACDC dataset results
 -   The training set consists of 3 labeled scans and 67 unlabeled scans and the testing set includes 20 scans.
