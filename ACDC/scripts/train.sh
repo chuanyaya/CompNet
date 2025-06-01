@@ -3,11 +3,11 @@ now=$(date +"%Y%m%d_%H%M%S")
 
 # modify these augments if you want to try other datasets, splits or methods
 # dataset: ['acdc']
-# method: ['unimatch', 'supervised']
+# method: ['CompNet', 'supervised']
 # exp: just for specifying the 'save_path'
 # split: ['1', '3', '7']
 dataset='acdc'
-method='unimatch'
+method='CompNet'
 exp='unet'
 split='7'
 
